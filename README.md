@@ -9,3 +9,25 @@ The objective is to collect keys, avoid or defeat enemies, and utilize power-ups
 
 
 If you want more information about the game, check the following link: https://github.com/AdriaBelinchon/The-Goonies/wiki
+
+## Features
+
+Here's a video of all implemented features 
+Version 0.5:
+- Player
+- Enemy
+- Win/Lose condicions
+- Player's life
+- Music
+
+
+### How to play
+Use the left arrow of the keyboard to move the character to the left.
+Use the right arrow of the keyboard to move the charater to the right.
+Use the spacebar of the keyboard to jump.
+Use the up arrow to punch.
+
+#### Our profiles
+Adria Belinchon: https://github.com/AdriaBelinchon
+
+Pau Gutsens: https://github.com/PauGutsens
