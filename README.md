@@ -17,6 +17,7 @@ Version 0.5:
 - Enemy
 - Win/Lose condicions
 - Player's life
+- PLayer's score
 - Music
   
 Here's a video of all implemented features:
@@ -42,6 +43,8 @@ Use f2 to win Automatically.
 Use f3 to lose Automatically.
 
 Use f3 to enter godmode.
+
+After you win the game press the spacebar or escape to retrurn to the menu.
 
 #### Our profiles
 
