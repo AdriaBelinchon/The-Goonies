@@ -22,6 +22,7 @@ Version 0.5:
 Here's a video of all implemented features:
 
 ### How to play
+Use the spacebar to start.
 Use the left arrow of the keyboard to move the character to the left.
 
 Use the right arrow of the keyboard to move the charater to the right.
@@ -35,6 +36,12 @@ Use the down arrow to climb down.
 Use the the E key to punch.
 
 Use the f1 key to see the hitboxes with the sprite, if you press it again it will see only the hitboxes and if you press it a third time it will be normal.
+
+Use f2 to win Automatically.
+
+Use f3 to lose Automatically.
+
+Use f3 to enter godmode.
 
 #### Our profiles
 
