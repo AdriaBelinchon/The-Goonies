@@ -28,9 +28,16 @@ Use the right arrow of the keyboard to move the charater to the right.
 
 Use the spacebar of the keyboard to jump.
 
-Use the up arrow to punch.
+Use the up arrow to climb up.
+
+Use the down arrow to climb down.
+
+Use the the E key to punch.
+
+Use the f1 key to see the hitboxes with the sprite, if you press it again it will see only the hitboxes and if you press it a third time it will be normal.
 
 #### Our profiles
+
 Adria Belinchon: https://github.com/AdriaBelinchon
 
 Pau Gutsens: https://github.com/PauGutsens
