@@ -21,8 +21,15 @@ Version 0.5:
 - Win/lose screens
 - Minimum UI functionality
 - Minimum debug functionality
-  
+
+Version 1.0:
+- Three enemies (Skull, Water Drop, Stalactite)
+- Win condition
+- Lose Condition
+
+
 Here's a video of all implemented features:
+https://www.youtube.com/watch?v=djosqKzcHdE
 
 ### How to play
 Use the spacebar to go through slides and to start playing.
