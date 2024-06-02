@@ -52,6 +52,14 @@ Use f2 to win Automatically.
 
 Use f3 to lose Automatically.
 
+Use the number 1 of the keyboard to go to the first scene.
+
+Use the number 2 of the keyboard to go to the second scene.
+
+Use the number 3 of the keyboard to go to the third scene.
+
+Use the number 4 of the keyboard to go to the fourth scene.
+
 After you win the game press the spacebar to return to the menu or escape to close the window.
 
 #### Our profiles
